@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Certificate List{% endblock %}
+
+{% block body %}
+    <div class="container mt-4">
+        <h1 class="mb-4">My Certificates</h1>
+
+        <table class="table table-bordered table-hover">
+            <thead class="thead-light">
+            <tr>
+                <th>#</th>
+                <th>Certificate Code</th>
+                <th>Issued At</th>
+                <th>Course Name</th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for certificate in certificates %}
+                <tr>
+                    <td>{{ certificate.id }}</td>
+                    <td>{{ certificate.certificateCode }}</td>
+                    <td>{{ certificate.issuedAt ? certificate.issuedAt|date('Y-m-d H:i:s') : 'N/A' }}</td>
+                    <td>{{ certificate.course ? certificate.course.title : 'N/A' }}</td>
+                    <td>
+                        <a href="{{ path('app_certificate_show', {'id': certificate.id}) }}" class="btn btn-info btn-sm">Show</a>
+                    </td>
+                </tr>
+            {% else %}
+                <tr>
+                    <td colspan="5" class="text-center">No certificates found.</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

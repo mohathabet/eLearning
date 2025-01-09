@@ -1,0 +1,38 @@
+[INFO] [2024-12-29 18:39:11] Starting check for user completion in the course for lesson: intro to oop
+[INFO] [2024-12-29 18:39:11] No progress record found for lesson ID: 6. Creating a new progress record.
+[INFO] [2024-12-29 18:39:11] Total number of lessons in the course: 2
+[INFO] [2024-12-29 18:39:11] Completed lessons for the user: 1
+[INFO] [2024-12-29 18:39:11] User has not completed all lessons in the course. Total lessons: 2, Completed lessons: 1
+[INFO] [2024-12-29 18:39:37] Starting check for user completion in the course for lesson: constructor
+[INFO] [2024-12-29 18:39:37] No progress record found for lesson ID: 7. Creating a new progress record.
+[INFO] [2024-12-29 18:39:38] Total number of lessons in the course: 2
+[INFO] [2024-12-29 18:39:38] Completed lessons for the user: 2
+[INFO] [2024-12-29 18:39:38] User has completed all lessons in the course: 5
+[INFO] [2024-12-29 18:39:38] Course completed successfully for user: anas
+[INFO] [2024-12-29 18:41:49] Starting check for user completion in the course for lesson: intro to oop
+[INFO] [2024-12-29 18:41:49] Total number of lessons in the course: 2
+[INFO] [2024-12-29 18:41:49] Completed lessons for the user: 1
+[INFO] [2024-12-29 18:41:49] User has not completed all lessons in the course. Total lessons: 2, Completed lessons: 1
+[INFO] [2024-12-29 18:52:36] Starting check for user completion in the course for lesson: c1
+[INFO] [2024-12-29 18:52:36] No progress record found for lesson ID: 10. Creating a new progress record.
+[INFO] [2024-12-29 18:52:36] Total number of lessons in the course: 2
+[INFO] [2024-12-29 18:52:36] Completed lessons for the user: 1
+[INFO] [2024-12-29 18:52:36] User has not completed all lessons in the course. Total lessons: 2, Completed lessons: 1
+[INFO] [2024-12-29 18:52:52] Starting check for user completion in the course for lesson: c2
+[INFO] [2024-12-29 18:52:52] No progress record found for lesson ID: 11. Creating a new progress record.
+[INFO] [2024-12-29 18:52:52] Total number of lessons in the course: 2
+[INFO] [2024-12-29 18:52:52] Completed lessons for the user: 2
+[INFO] [2024-12-29 18:52:52] User has completed all lessons in the course: 7
+[INFO] [2024-12-29 18:52:52] Course completed successfully for user: anas
+[INFO] [2024-12-29 18:55:24] Starting check for user completion in the course for lesson: intro to oop
+[INFO] [2024-12-29 18:55:24] No progress record found for lesson ID: 6. Creating a new progress record.
+[INFO] [2024-12-29 18:55:25] User has not completed all lessons in the course. Total lessons: 2, Completed lessons: 1
+[INFO] [2024-12-29 18:55:35] Starting check for user completion in the course for lesson: constructor
+[INFO] [2024-12-29 18:55:35] No progress record found for lesson ID: 7. Creating a new progress record.
+[INFO] [2024-12-29 18:55:35] User has completed all lessons in the course: 5
+[INFO] [2024-12-29 21:58:59] Starting check for user completion in the course for lesson: intro to oop
+[INFO] [2024-12-29 21:58:59] No progress record found for lesson ID: 6. Creating a new progress record.
+[INFO] [2024-12-29 21:58:59] User has not completed all lessons in the course. Total lessons: 2, Completed lessons: 1
+[INFO] [2024-12-29 21:59:10] Starting check for user completion in the course for lesson: constructor
+[INFO] [2024-12-29 21:59:10] No progress record found for lesson ID: 7. Creating a new progress record.
+[INFO] [2024-12-29 21:59:10] User has completed all lessons in the course: 5
